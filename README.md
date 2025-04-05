@@ -1,6 +1,5 @@
-![Header](https://raw.githubusercontent.com/ayushgharat234/ayushgharat234/main/github-header.png)
+# 👋 Hi there! I'm Ayush Gharat  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=for-the-badge)
 
-# 👋 Hi there! I'm Ayush Gharat
 
 🚀 **Machine Learning Engineer | Data Science Enthusiast | Google Cloud Certified**
 
