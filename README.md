@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Ayush Gharat  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=ayushgharat234&color=blue&style=for-the-badge)
+# 👋 Hi there! I'm Ayush Gharat  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=ayushgharat234&color=blue)
 
 
 🚀 **Machine Learning Engineer | Data Science Enthusiast | Google Cloud Certified**
